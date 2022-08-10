@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDBrittingham
 - 👀 I’m interested in Game Design
-- 🌱 I’m currently using Svelte, GSAP and PixiJS to build a fitness challenge
+- 🌱 I’m currently using SwiftUI and SpriteKit to build a fitness challenge app
 - 💞️ I’m looking to collaborate on fitness-related gaming
 - 📫 How to reach me markb@nextyou.com
 
